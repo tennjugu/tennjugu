@@ -1,6 +1,6 @@
-### Hi there, I'm Tenerat! 👋
+## Hi there, I'm Tenerat! 👋
 
-## A little bit about me...
+### A little bit about me...
 
 - 🌱 I’m currently learning HTML, CSS and JS
 - 🥅 2023 Goals: acquire proficient knowledge of HTML, CSS and JS
