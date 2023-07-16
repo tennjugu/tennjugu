@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Tenerat! 👋
 
-<!--
-**tennjugu/tennjugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A little bit about me...
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning HTML, CSS and JS
+- 🥅 2023 Goals: acquire proficient knowledge of HTML, CSS and JS
+- 💬 Ask me about: I love football, online games and cars
+- ⚡ Fun fact: I possesses an extraordinary knack for problem-solving and innovation, making every coding adventure an exhilarating journey of creativity and growth. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![website](./img/twitter.svg)](https://twitter.com/tenn_jugu)
+&nbsp;&nbsp;
+[![website](./img/linkedin.svg)]()
+&nbsp;&nbsp;
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+
+
+<br />
+
