@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning HTML, CSS and JS
 - 🥅 2023 Goals: acquire proficient knowledge of HTML, CSS and JS
-- 💬 Ask me about: I love football, online games and cars
+- 💬 About me: I love football, online games and cars
 - ⚡ Fun fact: I possesses an extraordinary knack for problem-solving and innovation, making every coding adventure an exhilarating journey of creativity and growth. 
 
 ### Connect with me:
