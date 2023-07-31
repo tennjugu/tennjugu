@@ -2,9 +2,9 @@
 
 ### A little bit about me...
 
-- 🌱 I’m currently JavaScript
-- 🥅 2023 Goals: acquire proficient knowledge of JavaScript and getting my first gig.
-- 💬 About me: I love football, online games and cars
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🥅 2023 Goals: acquire proficient knowledge of HTML, CSS and JavaScript and secure my initial job opportunity.
+- 💬 About me: I love football, online games and cars.
 - ⚡ Fun fact: I possesses an extraordinary knack for problem-solving and innovation, making every coding adventure an exhilarating journey of creativity and growth. 
 
 ### Connect with me:
