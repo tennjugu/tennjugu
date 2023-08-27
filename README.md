@@ -9,8 +9,7 @@
 
 ### Connect with me:
 
-[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/e877a3e980fe893f5ccff40027a746f7f3e725a5/img/twitter-light.svg)](https://twitter.com/tenn_jugu)
-&nbsp;
+
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/e877a3e980fe893f5ccff40027a746f7f3e725a5/img/linkedin-light.svg)](https://www.linkedin.com/in/teneratjugu/)
 &nbsp;
 
