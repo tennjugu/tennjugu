@@ -1,4 +1,6 @@
-## Hi there, I'm Tenerat! 👋
+## Hi there, I'm Tenerat! 👋                                  
+
+### [My Portfolio](https://tennjugu.github.io/My_Portfolio/)
 
 ### A little bit about me...
 
