@@ -2,17 +2,23 @@
 
 ### [My Portfolio](https://tennjugu.github.io/My_Portfolio/)
 
-### A little bit about me...
+### About Me
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 🥅 2023 Goals: acquire proficient knowledge of HTML, CSS and JavaScript and secure my initial job opportunity.
-- 💬 About me: I love football, online games and cars.
-- ⚡ Fun fact: I possesses an extraordinary knack for problem-solving and innovation, making every coding adventure an exhilarating journey of creativity and growth. 
+🚀 **Current Focus:**
+Actively studying and elevating my web development skills through engaging and practical projects.
+
+🌱 **Passion Project:**
+Transforming every coding adventure into an exhilarating journey of creativity and personal growth.
+
+🌟 **More about me:**
+Enthusiastic about football, online games, and cars. Always seeking new challenges and opportunities to learn.
+
 
 ### Connect with me:
 
 
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/e877a3e980fe893f5ccff40027a746f7f3e725a5/img/linkedin-light.svg)](https://www.linkedin.com/in/teneratjugu/)
+&nbsp;   [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/e877a3e980fe893f5ccff40027a746f7f3e725a5/img/twitter-light.svg)](https://twitter.com/tenn_jugu)
 &nbsp;
 
 ### Languages and Tools:
@@ -27,5 +33,4 @@
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=tennjugu&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tennjugu&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tennjugu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
